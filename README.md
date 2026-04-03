@@ -4,9 +4,11 @@ A basic calculator GUI built using Python and Tkinter.
 
 ## Features
 - Addition, Subtraction, Multiplication, Division
+- Follows BODMAS
 - Backspace (Del)
 - Clear button
 - Decimal support
+- Negative Numbers Handling
 
 ## Tech Used
 - Python
